@@ -18,7 +18,7 @@ O texto base foi desenvolvido por Dc William Santos. ChatGPT foi utilizado para 
 
 O episódio é uma narrativa emocionante e reflexiva sobre o sacrifício de Jesus, oferecendo aos ouvintes uma experiência imersiva e inspiradora.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://github.com/williamagaly/lab-natty-or-not/raw/main/A%20coroa%20de%20espinhos.mp3)
 
 ## 💭 Reflexão
 
